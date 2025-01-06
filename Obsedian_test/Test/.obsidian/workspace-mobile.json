@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-05.md",
+                "file": "05-Jan-24.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-05"
+              "title": "05-Jan-24"
             }
           }
         ]
@@ -48,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#test",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -83,7 +84,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "fed547d73f8e6808",
@@ -95,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "05-Jan-24.md",
+            "file": "system.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,14 +142,15 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "91e99717443096de",
+  "active": "9f336e03eada0cc4",
   "lastOpenFiles": [
+    "system.md",
+    "2025-01-06.md",
     "05-Jan-24.md",
     "2025-01-05.md",
     "Untitled.md"
