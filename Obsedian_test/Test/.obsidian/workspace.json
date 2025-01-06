@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system.md",
+                "file": "2025-01-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "system"
+              "title": "2025-01-06"
             }
           }
         ]
@@ -164,9 +164,9 @@
   },
   "active": "c1216be85781b506",
   "lastOpenFiles": [
+    "system.md",
     "05-Jan-24.md",
     "2025-01-06.md",
-    "2025-01-05.md",
-    "system.md"
+    "2025-01-05.md"
   ]
 }
