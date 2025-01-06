@@ -15,6 +15,7 @@
               "state": {
                 "file": "2025-01-06.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
@@ -154,11 +155,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
