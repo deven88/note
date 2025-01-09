@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-08.md",
+                "file": "2025-01-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-08"
+              "title": "2025-01-06"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "system.md",
+            "file": "2025-01-06.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,12 +149,13 @@
   },
   "active": "91e99717443096de",
   "lastOpenFiles": [
-    "Social/Puri mrg.md",
-    "2025-01-08.md",
+    "2025-01-09.md",
+    "2025-01-06.md",
     "2025-01-07.md",
+    "2025-01-08.md",
+    "Social/Puri mrg.md",
     "Social",
     "Home other/shoes purchase.md",
-    "2025-01-06.md",
     "07_Chapter-3_Department of Atomic Energy-0605b14ede2f043.69619987.pdf",
     "05-Jan-24.md",
     "chem_bus.md",
